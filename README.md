@@ -29,6 +29,8 @@ Decision communication treats that gap as a craft with rules:
 
 [examples/worked-example-sunset-decision.md](examples/worked-example-sunset-decision.md) shows a confirmation brief driving a contested legacy-system retirement to documented agreement, using the same fictional fleet-maintenance program as my other repositories.
 
+[examples/worked-example-decision-one-pager.md](examples/worked-example-decision-one-pager.md) shows the one-pager format completed end to end for a fictional municipal fleet program. Real structure, invented content.
+
 ## The Underlying Skill
 
 Every format here is the same move at different scales: **do the customer's thinking-work for them without doing their choosing-work for them.** Structure the information so the decision is easy to make and hard to misunderstand, then ask for it explicitly, with a date. That's the whole craft. The formats are just that sentence, applied.
